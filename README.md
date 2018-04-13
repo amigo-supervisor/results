@@ -6,7 +6,7 @@ As of now the following is not yet implemented:
 ### Collision checking
 While the kinect sensor has been integrated in moveit and there is an action server reporting the validity of the path, it was not yet robust enough to use in the experiments
 
-### Check for object bewlow hand
+### Check for object below hand
 Since we need collision checking for this, this is also not implemented yet
 
 ### Arm choice
